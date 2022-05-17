@@ -189,7 +189,7 @@ h6 {
 @media (max-width: 47.99875em) {
   .spollers__body {
     position: static;
-    width: 108%;
+    width: 100%;
     border: none;
   }
 }
